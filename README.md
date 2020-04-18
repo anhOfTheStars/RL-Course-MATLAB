@@ -3,16 +3,18 @@
 
 This repository provides complimentary coding exercises and solutions for [RL Learning Roadmap][11]. The coding exercises format is based on the awesome [WildML Learning Reinforcement Learning course][3] by [Denny Britz][6].
 
-# MATLAB Coding Exercises
+## Table of Contents
 Coding Exercises requires [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html) but you can always reimplement from scratch.
 
 •	[Chapter 1 - Dynamic Programming](https://github.com/anhOfTheStars/RLStudyGuide/tree/master/Chap1-DynamicProgramming)<br/>
 •	Other chapters are work in progress
 
-# Why MATLAB?
-There are many RL courses in the community but none for MATLAB users.
+#### Why MATLAB?
+There are many RL courses in the community but none for MATLAB users. This is not an official MathWorks product. 
 
-# References
+For online courses from MathWorks, see https://matlabacademy.mathworks.com/.
+
+## References
 Learning materials referred from:
 
 • [Reinforcement Learning Toolbox][12], The MathWorks<br/>
