@@ -11,12 +11,12 @@ This is not an official MathWorks product. For online courses from MathWorks, se
 Coding Exercises requires [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html) but you can always reimplement from scratch.
 
 •	[Chapter 1 - Dynamic Programming](https://github.com/anhOfTheStars/RLStudyGuide/tree/master/Chap1-DynamicProgramming)<br/>
-•	Chapter 2 - Temporal-Difference (TD) Learning (WIP)
-•	Chapter 3 - Function Approximation (WIP)
-•	Chapter 4 - Policy Gradient (WIP)
-•	Chapter 5 - Advanced Policy Gradient (WIP)
-•	Chapter 6 - Partially Observable Environment (WIP)
-•	Chapter 7 - Model-based (WIP)
+•	Chapter 2 - Temporal-Difference (TD) Learning (WIP)<br/>
+•	Chapter 3 - Function Approximation (WIP)<br/>
+•	Chapter 4 - Policy Gradient (WIP)<br/>
+•	Chapter 5 - Advanced Policy Gradient (WIP)<br/>
+•	Chapter 6 - Partially Observable Environment (WIP)<br/>
+•	Chapter 7 - Model-based (WIP)<br/>
 
 ## References
 Learning materials referred from:
