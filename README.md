@@ -1,18 +1,17 @@
 # RL Course MATLAB
  Reinforcement Learning (RL) Course in MATLAB with exercises and solutions
 
-This repository provides complimentary coding exercises and solutions for [RL Learning Roadmap][11]. The coding exercises format is based on the awesome [WildML Learning Reinforcement Learning course][3] by [Denny Britz][6].
+This repository provides complimentary coding exercises and solutions for [RL Learning Roadmap][11]. The coding exercises format is based on the awesome [WildML Learning Reinforcement Learning course][3] by [Denny Britz][6]. Exercises focus on implementing algorithms (the meat of RL).
+
+Given many RL courses in the community in Python, I create some coding exercises for MATLAB users. If you don't use MATLAB but want to follow [RL Learning Roadmap][11], rework these exercises in your favorite framework.
+
+This is not an official MathWorks product. For online courses from MathWorks, see https://matlabacademy.mathworks.com/.
 
 ## Table of Contents
 Coding Exercises requires [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html) but you can always reimplement from scratch.
 
 •	[Chapter 1 - Dynamic Programming](https://github.com/anhOfTheStars/RLStudyGuide/tree/master/Chap1-DynamicProgramming)<br/>
 •	Other chapters are work in progress
-
-#### Why MATLAB?
-There are many RL courses in the community but none for MATLAB users. This is not an official MathWorks product. 
-
-For online courses from MathWorks, see https://matlabacademy.mathworks.com/.
 
 ## References
 Learning materials referred from:
